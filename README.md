@@ -18,7 +18,7 @@ FUNCTIONAL REQUIREMENTS:
         Return books
         Can logout
 
-TOOLS/VERSIONS --	
+TOOLS/VERSIONS:	
 
 	Code Editor: Visual Studio Code (1.27)
 	Repository: GitHub (‎2.18.0)
