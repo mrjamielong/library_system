@@ -19,6 +19,7 @@ FUNCTIONAL REQUIREMENTS:
         Can logout
 
 TOOLS/VERSIONS --	
+
 	Code Editor: Visual Studio Code (1.27)
 	Repository: GitHub (‎2.18.0)
 	Server: Localhost / XAMPP (3.2.2)
